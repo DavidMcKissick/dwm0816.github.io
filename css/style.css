@@ -83,7 +83,7 @@ a:hover{
   color:orange;
   cursor: pointer;
 }
-.currentlink{
+.currentLink{
   color:rgb(242, 160, 0)!important;
 
 }
@@ -167,4 +167,13 @@ a:hover{
 .date{
   color:white;
   font-style: italic;
+}
+/* ---- */
+.readMore{
+  color: rgb(242, 160, 0) !important;
+  font-weight: bold;
+}
+.metaData{
+  font-style: italic;
+  font-weight: lighter;
 }
