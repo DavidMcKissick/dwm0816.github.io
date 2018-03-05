@@ -9,7 +9,7 @@ body{
 /* header */
 .header{
   height:400px;
-  width:100vw;
+  width:99vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
   border-bottom:5px solid rgb(35,35,35);
@@ -38,7 +38,7 @@ body{
 }
 
 .menu{
-  width:100vw;
+  width:99vw;
   height:10vh;
   color:#fff;
   text-align: center;
@@ -132,7 +132,7 @@ a{
 }
 #footer{
   height:300px;
-  width:100vw;
+  width:99vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
   display: flex;
@@ -141,7 +141,7 @@ a{
 #footContent{
   display:flex;
   color:white;
-  widows: 100vw;
+  width: 99vw;
   padding-left:24px;
 }
 #footMenu{
