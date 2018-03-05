@@ -20,7 +20,7 @@ body{
 }
 
 #headtext{
-  font-size:10em;
+  font-size:12em;
   margin:0;
   color:#fff;
   padding-left: 80px;
@@ -78,11 +78,11 @@ body{
 }
 .contentCell{
   padding-left:1px;
-  font-size: 25px;
+  font-size: 35px;
 }
 .bolded{
   font-weight: bold;
-  font-size: 25px;
+  font-size: 35px;
 }
 a:link{
   color:#fff;
@@ -154,4 +154,36 @@ a{
   padding-left:5px;
   padding-right: 5px;
   font-size:25px;
+}
+.storyTitle{
+  color:white;
+  font-size:45px;
+}
+.storyContent{
+  color:white;
+}
+.author{
+  color:white;
+  font-style: italic;
+}
+.date{
+  color:white;
+  font-style: italic;
+}
+/* ---- */
+.readMore{
+  color: rgb(242, 160, 0) !important;
+  font-weight: bold;
+  font-size:30px;
+}
+.metaData{
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 28px;
+} 
+.snippet{
+ font-size:35px; 
+}
+.articleTitle{
+  font-size:45px;
 }
