@@ -7,7 +7,7 @@ body{
 
 /* header */
 .header{
-  height:44vh;
+  height:15vh;
   width:100vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
@@ -118,5 +118,5 @@ a{
   border-radius: 7px;
   padding: 3px;
   background-color: orange;
-  font-size: 26px;
+  font-size: 75px;
 }
