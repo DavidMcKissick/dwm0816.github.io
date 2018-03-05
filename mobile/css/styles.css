@@ -9,7 +9,7 @@ body{
 /* header */
 .header{
   height:400px;
-  width:99vw;
+  width:99.4vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
   border-bottom:5px solid rgb(35,35,35);
@@ -132,7 +132,7 @@ a{
 }
 #footer{
   height:300px;
-  width:99vw;
+  width:99.4vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
   display: flex;
@@ -141,8 +141,8 @@ a{
 #footContent{
   display:flex;
   color:white;
-  width: 99vw;
-  padding-left:24px;
+  width: 98vw;
+  padding-left:10px;
 }
 #footMenu{
   width:20vw;
