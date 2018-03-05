@@ -105,8 +105,8 @@ a:hover{
 
 }
 #menulist{
-  padding-top: 20px;
   font-size: 25px;
+  padding: 0 !important;
 }
 a{
   text-decoration: none;
