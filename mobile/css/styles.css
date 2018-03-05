@@ -7,7 +7,7 @@ body{
 
 /* header */
 .header{
-  height:44vh;
+  height:20vh;
   width:100vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
@@ -103,7 +103,7 @@ a:hover{
 }
 #menulist{
   padding-top: 120px;
-  font-size: 25px;
+  font-size: 90px;
 }
 a{
   text-decoration: none;
