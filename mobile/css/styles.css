@@ -14,6 +14,8 @@ body{
   margin:0 !important;
   border-bottom:5px solid rgb(35,35,35);
   padding: 0 !important;
+  display: flex;
+  align-content: center;
 
 }
 
@@ -21,7 +23,7 @@ body{
   font-size:10em;
   margin:0;
   color:#fff;
-  padding-left: 100px;
+  padding-left: 80px;
 }
 
 .logohead{
