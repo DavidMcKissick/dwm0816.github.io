@@ -7,7 +7,7 @@ body{
 }
 .header{
   height:12vh;
-  width:100vw;
+  width:98.697vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
   display: flex;
@@ -16,7 +16,7 @@ body{
 }
 #footer{
   height:24vh;
-  width:100vw;
+  width:98.697vw;
   background-color:rgb(87,17,255);
   margin:0 !important;
   display: flex;
@@ -28,7 +28,7 @@ body{
   widows: 100vw;
 }
 #copyrightNotice{
-  width:98vw;
+  width:97vw;
   color:white;
   padding-left:5px;
   padding-right: 5px;
@@ -176,4 +176,9 @@ a:hover{
 .metaData{
   font-style: italic;
   font-weight: lighter;
+}
+.signIn{
+  font-size: 20px;
+  font-weight: bold;
+  color: orange !important;
 }
