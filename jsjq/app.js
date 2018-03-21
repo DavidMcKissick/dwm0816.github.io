@@ -60,3 +60,4 @@ $('#footer').append('<div id="footContent">')
 $('#footContent').append('<p id="copyrightNotice">All content is wholly owned by Skybrook Foundation, copyright 2018©<br><br>DISCLAIMER: While we attempt to keep information as up to date and accurate as possible, we are not responsible for accidentally inaccurate information. If you have questions make sure to inquire further with your physician. If you spot an inaccuracy in our information, feel free to let us know via the contact us form.</p>')
 $('#footer').append('</div>')
 $('#core').append('</div>')
+// ETC
