@@ -1,0 +1,106 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Skranji', cursive;
+    background-image: url("media/bg001.jpg");
+    background-size: cover;
+    background-repeat:none;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+/* Head content */
+#header{
+    padding-left: 10px;
+    background-color:rgb(75, 75, 75);
+    height: 75px;
+    margin: 0;
+    padding-top: 25px;
+    margin-bottom: 5vh;
+    width: 100%;
+}
+#headText{
+    margin:0;
+    color: white;
+
+}
+/* Core content */
+#content{
+    margin-left: 200px;
+    margin-right: auto;
+}
+@media screen and (min-width:1px) and (max-width: 724px){
+    #content{
+        margin-left:0px;
+    }
+    .birbMeme img{
+        min-width: 1px;
+        /* max-width: 300px; */
+        width: 90vw;
+    }
+    .colorBox{
+        /* min-width: 90vw; */
+        max-width: 10%;
+    }
+}
+@media screen and (min-width:650px){
+    .colorBox{
+        min-width: 25vw;
+        margin-left: 0px;
+    }
+    #content{
+        margin-left: 0; 
+    }
+    .birbMeme img{
+        width: 70vw;
+    }
+}
+@media screen and (min-width:800px){
+    #content{
+        max-width: 800px;
+        margin-left: 25px;
+    }
+    .birbMeme img{
+        width:50vw;
+    }
+}
+@media screen and (min-width:1000px){
+    #content{
+        margin-left: 100px;
+    }
+    .birbMeme img{
+        width: 40vw;
+    }
+}
+@media screen and (min-width:1200px){
+    #content{
+        margin-left: 250px;
+    }
+}
+@media screen and (min-width: 1500px){
+    #content{
+        margin-left: 300px;
+    }
+}
+.colorBox{
+    border-bottom: 2px solid black;
+    margin-bottom: 1vh;
+    margin-left: 0;
+    Height: 25vw;
+    width: 25vw;
+    background-color: orange;
+    float: left;
+}
+.birbMeme{
+    width: 50vw;
+    float: left;
+    max-width: 300px;
+    margin-left: 10px;
+}
+
+
+/* Footer content */
+#footer{
+
+}
